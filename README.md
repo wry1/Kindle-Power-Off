@@ -1,2 +1,2 @@
 # Kindle Power Off
-A power off tool for KUAL.
+A shut down tool for KUAL.
